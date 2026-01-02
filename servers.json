@@ -1,8 +1,32 @@
 [
   {
-    "id": "server_vip",
-    "name": "VIP Server India",
-    "url": "https://gujjar.api-mod.store",
+    "id": "server_1",
+    "name": "Mod Key",
+    "url": "https://mod-key.xyz",
+    "isCustom": true
+  },
+  {
+    "id": "server_2",
+    "name": "Api Mod",
+    "url": "https://api-store.xyz",
+    "isCustom": true
+  },
+  {
+    "id": "server_3",
+    "name": "bdhasanofficial",
+    "url": "https://bdhasanofficial.api-mod.store",
+    "isCustom": true
+  },
+  {
+    "id": "server_4",
+    "name": "Gaming Server 1",
+    "url": "https://gaming1.mod-api.com",
+    "isCustom": true
+  },
+  {
+    "id": "server_5",
+    "name": "Private Backup",
+    "url": "https://backup.safe-api.net",
     "isCustom": true
   }
 ]
